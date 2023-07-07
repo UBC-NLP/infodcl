@@ -22,7 +22,7 @@ Illustration of our proposed InfoDCL framework. We exploit distant/surrogate lab
 <p align="center" width="100%">
     <a><img src="images/main_table.png" alt="main table" style="width: 95%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
-Fine-tuning results on our 24 SM datasets (average macro-F1 over five runs).
+Fine-tuning results on our 24 Sociopragmatic Meaning datasets (average macro-F1 over five runs).
 
 ## Use of Code
 We develop our models based on the scripts of [SimCSE](https://github.com/princeton-nlp/SimCSE/) (*Gao et al.*, 2021).
