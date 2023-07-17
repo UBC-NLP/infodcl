@@ -15,7 +15,7 @@ Illustration of our proposed InfoDCL framework. We exploit distant/surrogate lab
 
 ## Checkpoints of Models Pre-Trained with InfoDCL 
 * InfoDCL-RoBERTa trained with TweetEmoji-EN: https://huggingface.co/UBC-NLP/InfoDCL-emoji 
-* InfoDCL-RoBERTa trained with TweetEmoji-EN: https://huggingface.co/UBC-NLP/InfoDCL-hashtag
+* InfoDCL-RoBERTa trained with TweeetHashtag-EN: https://huggingface.co/UBC-NLP/InfoDCL-hashtag
 
 ## Model Performance
 
